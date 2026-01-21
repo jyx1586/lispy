@@ -1,2 +1,2 @@
 # lispy
-Write a programming language in C
+Build an interpreter in C
